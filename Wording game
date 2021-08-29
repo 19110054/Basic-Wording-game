@@ -23,7 +23,7 @@ def picknum_1():
 		try:
 			set_1 = int(input("Pick better number between 1~11: "))
 		except ValueError:
-			print("We need number, anjing ")
+			print("We need number, friend ")
 	return set_1
 
 
@@ -35,7 +35,7 @@ def picknum_2():
 		try:
 			set_2 = int(input("Pick better number between 1~11: "))
 		except ValueError:
-			print("We need number, anjing ")
+			print("We need number, friend ")
 
 	return set_2
 
